@@ -45,3 +45,6 @@ int main()
 
     return 0;
 }
+
+//output: Enter the element to search: 40
+          Element found at index 3
