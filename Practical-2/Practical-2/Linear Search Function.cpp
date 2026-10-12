@@ -32,3 +32,6 @@ int main()
 
     return 0;
 }
+
+//output: Enter the element to search: 10
+          Element found at index 0
